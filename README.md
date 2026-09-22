@@ -1,16 +1,17 @@
-## Hi there 👋
+Dara Ataide
 
-<!--
-**Dara-Ataide/Dara-Ataide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student @ UFPI**
 
-Here are some ideas to get you started:
+`C` · `Python` · `HTML/CSS` · `SQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in **software, cybersecurity, AI and languages**.
+
+Currently learning, building and documenting my journey through Computer Science.
+
+### projects
+
+> small projects, experiments and things I'm learning along the way.
+
+### contact
+
+[GitHub]() · [LinkedIn](SEU_LINK)
