@@ -2,7 +2,7 @@
 
 # Dara Ataide
 
-**Computer Science student @ UFPI**
+**Computer Science student**
 
 `C` · `Python` · `HTML/CSS` · `SQL`
 
