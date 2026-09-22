@@ -1,6 +1,6 @@
 <img src="./header.png" width="100%">
 
-# Dara Emanuelle
+# Dara Ataide
 
 **Computer Science student @ UFPI**
 
