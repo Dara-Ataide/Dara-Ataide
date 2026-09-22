@@ -1,4 +1,4 @@
-<img src="./header.png" width="100%">
+
 
 # Dara Ataide
 
