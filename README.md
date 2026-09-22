@@ -1,4 +1,4 @@
-Dara Ataide
+#Dara Ataide
 
 **Computer Science student @ UFPI**
 
@@ -14,4 +14,4 @@ Currently learning, building and documenting my journey through Computer Science
 
 ### contact
 
-[GitHub]() · [LinkedIn](SEU_LINK)
+[LinkedIn](https://www.linkedin.com/in/dara-ataide-b7260231b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsx8Dwc6ESxih3hvqNXzIJg%3D%3D)
