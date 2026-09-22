@@ -1,4 +1,4 @@
-#Dara Ataide
+#Dara
 
 **Computer Science student @ UFPI**
 
